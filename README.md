@@ -31,3 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 https://github.com/angular-eslint/angular-eslint
 https://blog.bitsrc.io/how-ive-set-up-eslint-and-prettier-in-angular-16-and-why-i-did-that-4bfc304284a6
 https://gist.github.com/bezael/5086db4bf7fd4655969a8da4e5ec1ab8
+
+Desarrollado por [Gnxcode](https://gnxcode.dev).
