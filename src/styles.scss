@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.alert-success {
+  .mdc-snackbar__surface {
+    background-color: 	rgb(20 83 45) !important;
+  }
+}
+
+.alert-danger {
+  .mdc-snackbar__surface {
+    background-color: rgb(153 27 27) !important;
+  }
+}
+.alert-success,
+.alert-danger{
+  button {
+    color: #fff !important;
+  };
+}
